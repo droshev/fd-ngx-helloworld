@@ -1,0 +1,5 @@
+.fd-shell__header--fixed {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
